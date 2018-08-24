@@ -1,5 +1,7 @@
 # Abstração, Estado e Comportamento
 
+Classroom assignment <https://classroom.github.com/a/27jQ2W6Y>
+
 ## Modelar e implementar respeitando os princípios básicos de Orientação a Objetos
 
 #### Assuntos
